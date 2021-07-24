@@ -1,0 +1,15 @@
+.rect {
+  padding: 1rem;
+}
+
+.rect-name {
+  word-wrap: break-word;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
